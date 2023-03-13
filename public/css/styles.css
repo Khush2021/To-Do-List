@@ -1,0 +1,28 @@
+body{
+  padding-top: 10%;
+  text-align: center;
+  background-color: #112D4E;
+}
+
+h1{
+  margin-bottom: 20px;
+}
+
+.listItem{
+  border-style: solid;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: #DBE2EF;
+}
+
+.input{
+  border-style: solid;
+  border-radius: 10px;
+  margin-top: 20px;
+  text-align: center;
+  background-color: #DBE2EF;
+}
+
+.inputs{
+  display: flexbox;
+}
